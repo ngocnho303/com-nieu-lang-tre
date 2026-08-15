@@ -85,7 +85,7 @@ Hệ thống Thông tin Quản lý (MIS) là sự kết hợp giữa **Con ngư�
   * **HRMS**: Phân ca làm việc, chấm công FaceID.
 
 * **Giai đoạn 3: Triển khai Thí điểm & Toàn chuỗi (Tháng 3 - Tháng 5)**
-  * Chạy Pilot tại 01 chi nhánh $\rightarrow$ Đánh giá & Tối ưu.
+  * Chạy Kiot tại 01 chi nhánh $\rightarrow$ Đánh giá & Tối ưu.
   * Nhân rộng ra toàn bộ 4 chi nhánh.
 
 * **Giai đoạn 4: Đào tạo & Chuẩn hóa TO-BE (Tháng 6)**
