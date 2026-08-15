@@ -63,6 +63,9 @@ Hệ thống Thông tin Quản lý (MIS) là sự kết hợp giữa **Con ngư�
 
 ### 4.2. So sánh các phương án giải pháp
 
+### 4.2. So sánh các phương án giải pháp
+
+```text
 +-----------------------------------------------------------------------------------+
 |                            BẢNG SO SÁNH PHƯƠNG ÁN GIẢI PHÁP                       |
 +-------------------------------------+---------------------------------------------+
@@ -78,7 +81,6 @@ Hệ thống Thông tin Quản lý (MIS) là sự kết hợp giữa **Con ngư�
 | (Tùy chỉnh riêng biệt)              | • Ưu điểm: Tùy biến tuyệt đối               |
 |                                     | • Nhược điểm: Chi phí quá cao, rủi ro lớn  |
 +-------------------------------------+---------------------------------------------+
-
 
 > **LỰA CHỌN TỐI ƯU**: **Phương án 2 (Triển khai KiotViet)** là nền tảng cân bằng nhất giữa chi phí, tiến độ triển khai và khả năng quản trị cho chuỗi F&B quy mô vừa.
 
