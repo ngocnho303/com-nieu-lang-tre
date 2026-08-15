@@ -75,21 +75,21 @@ Hệ thống Thông tin Quản lý (MIS) là sự kết hợp giữa **Con ngư�
 
 ## 5. KẾ HOẠCH HÀNH ĐỘNG VÀ TRIỂN KHAI HỆ THỐNG KIOTVIET
 
-Giai đoạn 1: Chuẩn bị & Ký kết (Tháng 1)
-└── Khảo sát quy trình, chốt hợp đồng bản quyền KiotViet.
+* **Giai đoạn 1: Chuẩn bị & Ký kết (Tháng 1)**
+  * Khảo sát quy trình, chốt hợp đồng bản quyền KiotViet.
 
-Giai đoạn 2: Cấu hình Phân hệ (Tháng 2)
-├── POS Sales: Quản lý order bàn, phòng, khách đoàn.
-├── DMS Kho: Thiết lập công thức BOM (Recipe), định mức kho.
-├── CRM: Lưu trữ dữ liệu khách hàng, phân hạng thành viên.
-└── HRMS: Phân ca làm việc, chấm công FaceID.
+* **Giai đoạn 2: Cấu hình Phân hệ (Tháng 2)**
+  * **POS Sales**: Quản lý order bàn, phòng, khách đoàn.
+  * **DMS Kho**: Thiết lập công thức BOM (Recipe), định mức kho.
+  * **CRM**: Lưu trữ dữ liệu khách hàng, phân hạng thành viên.
+  * **HRMS**: Phân ca làm việc, chấm công FaceID.
 
-Giai đoạn 3: Triển khai Thí điểm & Toàn chuỗi (Tháng 3 - Tháng 5)
-├── Chạy Pilot tại 01 chi nhánh → Đánh giá & Tối ưu.
-└── Nhân rộng ra toàn bộ 4 chi nhánh.
+* **Giai đoạn 3: Triển khai Thí điểm & Toàn chuỗi (Tháng 3 - Tháng 5)**
+  * Chạy Pilot tại 01 chi nhánh $\rightarrow$ Đánh giá & Tối ưu.
+  * Nhân rộng ra toàn bộ 4 chi nhánh.
 
-Giai đoạn 4: Đào tạo & Chuẩn hóa TO-BE (Tháng 6)
-└── Ban hành SOP vận hành mới, đào tạo nhân viên.
+* **Giai đoạn 4: Đào tạo & Chuẩn hóa TO-BE (Tháng 6)**
+  * Ban hành SOP vận hành mới, đào tạo nhân viên.
 
 
 ---
