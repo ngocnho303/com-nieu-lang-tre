@@ -61,29 +61,16 @@ Hệ thống Thông tin Quản lý (MIS) là sự kết hợp giữa **Con ngư�
 
 ---
 
-### 4.2. So sánh các phương án giải pháp
 
 ### 4.2. So sánh các phương án giải pháp
 
-```text
-+-----------------------------------------------------------------------------------+
-|                            BẢNG SO SÁNH PHƯƠNG ÁN GIẢI PHÁP                       |
-+-------------------------------------+---------------------------------------------+
-| Phương án 1: Nâng cấp trên Ocha     | • Chi phí: ~115.000.000 VNĐ                 |
-| (Mua lẻ các module hỗ trợ)          | • Ưu điểm: Rủi ro thấp, dễ tiếp cận        |
-|                                     | • Nhược điểm: Rời rạc, dữ liệu bị phân tán  |
-+-------------------------------------+---------------------------------------------+
-| Phương án 2: Triển khai KiotViet    | • Chi phí: ~190.000.000 - 195.000.000 VNĐ   |
-| (Giải pháp Tích hợp Tối ưu) - CHỌN | • Ưu điểm: Tập trung dữ liệu, chuẩn BOM kho |
-|                                     | • Nhược điểm: Cần thời gian đào tạo         |
-+-------------------------------------+---------------------------------------------+
-| Phương án 3: Xây dựng hệ thống ERP  | • Chi phí: ~410.000.000 VNĐ                 |
-| (Tùy chỉnh riêng biệt)              | • Ưu điểm: Tùy biến tuyệt đối               |
-|                                     | • Nhược điểm: Chi phí quá cao, rủi ro lớn  |
-+-------------------------------------+---------------------------------------------+
+| Phương án | Chi phí | Ưu điểm | Nhược điểm |
+| :--- | :--- | :--- | :--- |
+| **Phương án 1: Nâng cấp trên Ocha**<br>*(Mua lẻ các module hỗ trợ)* | ~115.000.000 VNĐ | Rủi ro thấp, dễ tiếp cận | Rời rạc, dữ liệu bị phân tán |
+| **Phương án 2: Triển khai KiotViet**<br>*(Giải pháp Tích hợp Tối ưu - **CHỌN**)* | ~190.000.000 - 195.000.000 VNĐ | Tập trung dữ liệu, chuẩn BOM kho | Cần thời gian đào tạo |
+| **Phương án 3: Xây dựng hệ thống ERP**<br>*(Tùy chỉnh riêng biệt)* | ~410.000.000 VNĐ | Tùy biến tuyệt đối | Chi phí quá cao, rủi ro lớn |
 
 > **LỰA CHỌN TỐI ƯU**: **Phương án 2 (Triển khai KiotViet)** là nền tảng cân bằng nhất giữa chi phí, tiến độ triển khai và khả năng quản trị cho chuỗi F&B quy mô vừa.
-
 ---
 
 ## 5. KẾ HOẠCH HÀNH ĐỘNG VÀ TRIỂN KHAI HỆ THỐNG KIOTVIET
